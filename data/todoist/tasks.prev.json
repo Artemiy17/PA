@@ -1,0 +1,1256 @@
+{
+  "source": "todoist",
+  "sync_version": "normalized-v3",
+  "synced_at": "2026-08-11T01:43:33.416762+00:00",
+  "task_count": 53,
+  "tasks": [
+    {
+      "id": "6h3H7f2Q6JCCwCmv",
+      "content": "Автовступление в каналы",
+      "description": "Нужно для закрытых каналов которые нельзя читать без вступления",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6gFhhg8xx2QjfhQM",
+        "name": "Фичи"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-04T18:52:21.072661Z",
+      "updated_at": "2026-07-04T18:53:05.892251Z"
+    },
+    {
+      "id": "6h3H89cmxMVj5pXv",
+      "content": "Обработка ошибок при быстром вступлении",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6gFhhg8xx2QjfhQM",
+        "name": "Фичи"
+      },
+      "parent": {
+        "id": "6h3H7f2Q6JCCwCmv",
+        "content": "Автовступление в каналы"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-04T18:55:51.659235Z",
+      "updated_at": "2026-07-04T18:55:51.659248Z"
+    },
+    {
+      "id": "6h4HfpgpmRMXXvjj",
+      "content": "Сделать чек-лист по диагностике",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-09T02:58:25.714012Z",
+      "updated_at": "2026-07-09T02:58:25.714031Z"
+    },
+    {
+      "id": "6h8jv6wV7FwxVFHj",
+      "content": "Настроить синхронизацию обсидиан через dropbox",
+      "description": "Чтобы не платить подписку и иметь синхронизацию на телефоне",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": {
+        "id": "6h4HfpgpmRMXXvjj",
+        "content": "Сделать чек-лист по диагностике"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-27T23:16:01.093298Z",
+      "updated_at": "2026-07-27T23:16:35.406542Z"
+    },
+    {
+      "id": "6h75MJ2p43FGXhGv",
+      "content": "Проработать словарь",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-20T19:57:08.424607Z",
+      "updated_at": "2026-07-21T00:32:02.438550Z"
+    },
+    {
+      "id": "6h93WJVgRRCjQMFw",
+      "content": "Питание",
+      "description": "",
+      "project": {
+        "id": "6h93WG8cwGFwCWMP",
+        "name": "PA"
+      },
+      "section": {
+        "id": "6h93WXH4FWrV4mPw",
+        "name": "Сделать"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T03:00:47.877564Z",
+      "updated_at": "2026-07-29T03:02:04.678255Z"
+    },
+    {
+      "id": "6h6MCV7HHC8PW2Pj",
+      "content": "Перенести адрес",
+      "description": "Банки, дмв",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 2,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-17T21:00:42.724351Z",
+      "updated_at": "2026-07-17T21:00:58.259110Z"
+    },
+    {
+      "id": "6h82g7gVwp4MVwHC",
+      "content": "DMV",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": {
+        "id": "6h6MCV7HHC8PW2Pj",
+        "content": "Перенести адрес"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 3,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-24T17:42:27.049997Z",
+      "updated_at": "2026-07-24T17:42:27.050010Z"
+    },
+    {
+      "id": "6h82h4QjMgCxrGCj",
+      "content": "Сменить адрес бизнеса",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": {
+        "id": "6h6MCV7HHC8PW2Pj",
+        "content": "Перенести адрес"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 6,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-24T17:47:51.006725Z",
+      "updated_at": "2026-07-24T17:47:51.006737Z"
+    },
+    {
+      "id": "6h76pW2W632gmjpv",
+      "content": "Расширить количество каналов",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 2,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-21T00:28:28.823410Z",
+      "updated_at": "2026-07-21T00:32:02.441326Z"
+    },
+    {
+      "id": "6h93Wm6fxPJ424cP",
+      "content": "я Должен отчитываться ему",
+      "description": "",
+      "project": {
+        "id": "6h93WG8cwGFwCWMP",
+        "name": "PA"
+      },
+      "section": {
+        "id": "6h93WXH4FWrV4mPw",
+        "name": "Сделать"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 2,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T03:03:07.952428Z",
+      "updated_at": "2026-07-29T03:03:07.952443Z"
+    },
+    {
+      "id": "6h93Wq6gC2c4V73P",
+      "content": "Сколько денег заработал",
+      "description": "",
+      "project": {
+        "id": "6h93WG8cwGFwCWMP",
+        "name": "PA"
+      },
+      "section": {
+        "id": "6h93WXH4FWrV4mPw",
+        "name": "Сделать"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 3,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T03:03:31.619903Z",
+      "updated_at": "2026-07-29T03:03:31.619918Z"
+    },
+    {
+      "id": "6gGqQ3J95gRc6j6C",
+      "content": "Если не пришёл ВОРК позвонить адвокату",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-09-01",
+        "timezone": null,
+        "string": "Sep 1",
+        "lang": "en",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 4,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-03-30T17:58:08.819098Z",
+      "updated_at": "2026-03-30T17:58:08.819120Z"
+    },
+    {
+      "id": "6h943MrRjcVFCjFP",
+      "content": "постоянная Проверка компаса",
+      "description": "не сбился ли с пути даже в проектах которые делаю.",
+      "project": {
+        "id": "6h93WG8cwGFwCWMP",
+        "name": "PA"
+      },
+      "section": {
+        "id": "6h93WXH4FWrV4mPw",
+        "name": "Сделать"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 4,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T04:31:06.596299Z",
+      "updated_at": "2026-07-29T04:31:06.596315Z"
+    },
+    {
+      "id": "6gHG9jQf6ccc7cJj",
+      "content": "Взять письмо поддержки",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 5,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-04-01T17:16:44.160336Z",
+      "updated_at": "2026-04-01T17:16:44.160356Z"
+    },
+    {
+      "id": "6gHG9mVcq3H7RCPC",
+      "content": "Связаться с адвокатом из россии",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 6,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-04-01T17:16:56.764045Z",
+      "updated_at": "2026-04-01T17:16:56.764070Z"
+    },
+    {
+      "id": "6gGc9pq34qGCP6pC",
+      "content": "Распечатать бумагу о завершении курса обучения по рефинишингу",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 7,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-03-29T18:49:48.251558Z",
+      "updated_at": "2026-03-29T18:49:48.251583Z"
+    },
+    {
+      "id": "6h7GPVp8MhC9W6RM",
+      "content": "Маркировать посты откуда чтобы видеть принадлежность источника",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6gFhhg8xx2QjfhQM",
+        "name": "Фичи"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 7,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-21T18:29:18.740457Z",
+      "updated_at": "2026-07-21T18:29:18.740475Z"
+    },
+    {
+      "id": "6h8xwvjc3GrVV37v",
+      "content": "Добавление LLM",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 7,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-28T21:51:46.836471Z",
+      "updated_at": "2026-07-28T21:51:46.836491Z"
+    },
+    {
+      "id": "6h8xx653Hv4Xfj6v",
+      "content": "Подключение к LLM должно быть в одном файле",
+      "description": "Чтобы код не разрастался и можно было легко поменять модель.",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": {
+        "id": "6h8xwvjc3GrVV37v",
+        "content": "Добавление LLM"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-28T21:52:57.008289Z",
+      "updated_at": "2026-07-28T21:52:57.008330Z"
+    },
+    {
+      "id": "6h8h63v9qJ5pWXhv",
+      "content": "Пормировать дайджест на основе постов. Со ссылками",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6gFhhg8xx2QjfhQM",
+        "name": "Фичи"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 8,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-27T17:33:11.140399Z",
+      "updated_at": "2026-07-27T17:33:11.140420Z"
+    },
+    {
+      "id": "6h8hcjFWHVGX8j5j",
+      "content": "Цифровой чувак который будет подгонять меня.",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-08-07",
+        "timezone": null,
+        "string": "Aug 7",
+        "lang": "en",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 8,
+      "is_collapsed": false,
+      "postponed_count": 1,
+      "added_at": "2026-07-27T19:13:27.421200Z",
+      "updated_at": "2026-08-03T04:43:19.486047Z"
+    },
+    {
+      "id": "6h6M9qCFvvwcfHvC",
+      "content": "Плата для тестов моторов.",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 9,
+      "is_collapsed": false,
+      "postponed_count": 1,
+      "added_at": "2026-07-17T20:56:35.210998Z",
+      "updated_at": "2026-08-05T18:30:21.062357Z"
+    },
+    {
+      "id": "6h6MxHgfW6j5m2gv",
+      "content": "система для приоритета каналов",
+      "description": "она читает каналы\nсмотрит сколько подписчиков\nсмотрит сколько постов в день\nсмотрит релевантность канала\nрешает дать приоритет каналу чтобы его опрашивать или нет",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 9,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-17T23:17:47.466754Z",
+      "updated_at": "2026-07-28T21:53:24.416758Z"
+    },
+    {
+      "id": "6h6MxrRwVff2xr9M",
+      "content": "аудит",
+      "description": "Это будет запускаться отдельный скрипт. У всех каналов возьмётся количество участников. Все каналы разобьются на три группы: маленькая, средняя, большое. В зависимости от этого будет создан приоритет по вопросу каналов.",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": {
+        "id": "6h6MxHgfW6j5m2gv",
+        "content": "система для приоритета каналов"
+      },
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 1,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-17T23:20:56.766462Z",
+      "updated_at": "2026-07-17T23:20:56.766477Z"
+    },
+    {
+      "id": "6h92Vh8Qf3fW29mM",
+      "content": "Переделать keywords.yaml",
+      "description": "Сейчас есть много лишнего",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6gFhhg8xx2QjfhQM",
+        "name": "Фичи"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 9,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-28T23:44:37.621820Z",
+      "updated_at": "2026-07-28T23:44:37.621840Z"
+    },
+    {
+      "id": "6h778V9Fq34FGG3M",
+      "content": "Купить сим карт",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 10,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-21T01:40:23.381970Z",
+      "updated_at": "2026-07-28T21:53:27.644796Z"
+    },
+    {
+      "id": "6gg6j535XV7J3hxj",
+      "content": "Разобраться с оплатой 800 долларов за LLC",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": {
+        "date": "2026-08-07",
+        "lang": "en"
+      },
+      "duration": null,
+      "child_order": 11,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-05-17T22:59:56.802084Z",
+      "updated_at": "2026-08-03T04:01:18.223152Z"
+    },
+    {
+      "id": "6h75MGmHGP9G8Cwv",
+      "content": "Обработчик для таких каналов как RT который недоступен.",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 11,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-20T19:56:54.343825Z",
+      "updated_at": "2026-07-28T21:53:32.681648Z"
+    },
+    {
+      "id": "6h92rhFJ5R387HqM",
+      "content": "Исправить импорт CSV",
+      "description": "Импорт должен:\n\n- добавлять новые каналы;\n- обновлять существующие;\n- поддерживать `enabled`;\n- не создавать дубликаты.\n\n**Результат:** CSV действительно управляет списком каналов.",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 12,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T00:50:41.656466Z",
+      "updated_at": "2026-07-29T00:50:41.656485Z"
+    },
+    {
+      "id": "6h993C3fjjj8rhxM",
+      "content": "дайджест если делает аи не должен иметь память",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 13,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T20:30:46.014619Z",
+      "updated_at": "2026-07-29T20:30:46.014637Z"
+    },
+    {
+      "id": "6hCHMM2Gg4QxRg6H",
+      "content": "Фото для хендимена",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 13,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-03T17:01:17.855081Z",
+      "updated_at": "2026-08-03T17:01:17.855099Z"
+    },
+    {
+      "id": "6hF4vCxVmcc8XXGj",
+      "content": "Хендимэни к Роберту",
+      "description": "",
+      "project": {
+        "id": "6g7V7J7pQMHC6R8j",
+        "name": "Inbox"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-08-14T11:00:00",
+        "timezone": null,
+        "string": "авг 14 11:00 AM",
+        "lang": "ru",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 13,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-06T20:16:09.916984Z",
+      "updated_at": "2026-08-06T20:16:09.917029Z"
+    },
+    {
+      "id": "6h993gvj2fc8g9cv",
+      "content": "замечания",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 14,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-29T20:33:34.871254Z",
+      "updated_at": "2026-07-29T20:33:34.871273Z"
+    },
+    {
+      "id": "6h9F2vFgQRGj27xM",
+      "content": "статистика",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 15,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-07-30T02:53:04.246322Z",
+      "updated_at": "2026-07-30T02:53:04.246341Z"
+    },
+    {
+      "id": "6hC9R3VpRqRgMcvj",
+      "content": "Поменять права в DMV",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 15,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-03T04:28:32.731459Z",
+      "updated_at": "2026-08-03T04:28:32.731478Z"
+    },
+    {
+      "id": "6hCQ8PgxwPwHgx5v",
+      "content": "Сделать функцию ПЕРЕПРОГОН",
+      "description": "Чтобы по новой переанализировать сообщения.",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 16,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-04T05:08:12.068623Z",
+      "updated_at": "2026-08-04T05:08:12.068642Z"
+    },
+    {
+      "id": "6hCpCPqXh9c2h5gj",
+      "content": "Найти документы на автомобиле",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 16,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-05T16:33:55.970008Z",
+      "updated_at": "2026-08-05T16:33:55.970028Z"
+    },
+    {
+      "id": "6hCc6rXP68Mjm6QM",
+      "content": "Убрать `local/source_archives/`",
+      "description": "Или не убирать, но по сути нах не нужно",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 17,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-04T20:59:33.029423Z",
+      "updated_at": "2026-08-04T20:59:33.029441Z"
+    },
+    {
+      "id": "6hCp5PhgFrh2wx4C",
+      "content": "Прописать количество неисправности на квадратный метр",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 17,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-05T16:03:52.767583Z",
+      "updated_at": "2026-08-05T16:03:52.767601Z"
+    },
+    {
+      "id": "6hCXfrVcvFGpRf8j",
+      "content": "Хэндимэнскую страховку",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 18,
+      "is_collapsed": false,
+      "postponed_count": 1,
+      "added_at": "2026-08-04T19:29:28.926453Z",
+      "updated_at": "2026-08-05T18:30:16.651527Z"
+    },
+    {
+      "id": "6hCc75vhXjcJRQxM",
+      "content": "Куча лишних флагов для коммандной строки",
+      "description": "",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 18,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-04T21:00:56.771454Z",
+      "updated_at": "2026-08-04T21:00:56.771469Z"
+    },
+    {
+      "id": "6hCc7R8Jfvjg4vXv",
+      "content": "`./rerun_embeddings.sh`",
+      "description": "убрать",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 19,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-04T21:03:14.828184Z",
+      "updated_at": "2026-08-04T21:03:14.828200Z"
+    },
+    {
+      "id": "6hF3Cwv3V42rF3pj",
+      "content": "Задонатить яблоку 31 авг",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-08-06",
+        "timezone": null,
+        "string": "Aug 6",
+        "lang": "en",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 19,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-06T15:02:00.217096Z",
+      "updated_at": "2026-08-06T15:02:00.217115Z"
+    },
+    {
+      "id": "6hCcf3fVF6r5gGPv",
+      "content": "./run_monitor.sh rerun-last",
+      "description": "--rerun-last надо мне так",
+      "project": {
+        "id": "6g9fchpxMJCMCpVM",
+        "name": "pkt I"
+      },
+      "section": {
+        "id": "6g9fcqH3xc6cMwHM",
+        "name": "TO DO"
+      },
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 20,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-04T22:36:35.424682Z",
+      "updated_at": "2026-08-04T22:36:35.424700Z"
+    },
+    {
+      "id": "6hFMp4j8J3Wp6vfC",
+      "content": "Проработать питание",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 20,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-08T07:10:39.628124Z",
+      "updated_at": "2026-08-08T07:10:39.628144Z"
+    },
+    {
+      "id": "6hFcMF9GGc9PGGfj",
+      "content": "otnosh",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 21,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-09T04:18:53.839841Z",
+      "updated_at": "2026-08-09T04:18:53.839858Z"
+    },
+    {
+      "id": "6hFmRC7FVwMPPq4j",
+      "content": "гугл биз",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 22,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-09T20:37:28.263053Z",
+      "updated_at": "2026-08-09T20:37:28.263072Z"
+    },
+    {
+      "id": "6hFRX65c6J8HXm7C",
+      "content": "Разобраться с рекламы",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 23,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-08T16:05:20.110633Z",
+      "updated_at": "2026-08-08T16:05:20.110651Z"
+    },
+    {
+      "id": "6hFmR8vrqPm8pwCC",
+      "content": "стэнд для моторов",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 24,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-09T20:37:14.303888Z",
+      "updated_at": "2026-08-09T20:37:14.303908Z"
+    },
+    {
+      "id": "6hFmRGFgM8FqvqJC",
+      "content": "сим + где пороли держать",
+      "description": "",
+      "project": {
+        "id": "6hC9HGhFgGcfGR9q",
+        "name": "TASKS"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": null,
+      "deadline": null,
+      "duration": null,
+      "child_order": 25,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-09T20:37:52.219541Z",
+      "updated_at": "2026-08-09T20:37:52.219559Z"
+    },
+    {
+      "id": "6hFqr6jJMxpQC9MC",
+      "content": "Беговая дорожка рекол",
+      "description": "",
+      "project": {
+        "id": "6g7V7J7pQMHC6R8j",
+        "name": "Inbox"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-08-11T14:00:00",
+        "timezone": null,
+        "string": "Aug 11 2:00 PM",
+        "lang": "en",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 25,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-10T04:13:11.831398Z",
+      "updated_at": "2026-08-10T04:13:23.305865Z"
+    },
+    {
+      "id": "6hG3rjq8xh5g5JpC",
+      "content": "Беговая дорожка",
+      "description": "",
+      "project": {
+        "id": "6g7V7J7pQMHC6R8j",
+        "name": "Inbox"
+      },
+      "section": null,
+      "parent": null,
+      "labels": [],
+      "priority": 1,
+      "due": {
+        "date": "2026-08-11T10:00:00",
+        "timezone": null,
+        "string": "авг 11 10:00 AM",
+        "lang": "ru",
+        "is_recurring": false
+      },
+      "deadline": null,
+      "duration": null,
+      "child_order": 26,
+      "is_collapsed": false,
+      "postponed_count": 0,
+      "added_at": "2026-08-10T23:29:53.106137Z",
+      "updated_at": "2026-08-10T23:29:53.106151Z"
+    }
+  ]
+}
