@@ -1,0 +1,26 @@
+version: 1
+
+timezone: America/Los_Angeles
+recent_history_days: 7
+
+core:
+  required_files:
+    - areas.yaml
+    - goals.yaml
+    - projects.yaml
+    - obligations.yaml
+    - routines.yaml
+    - facts.yaml
+    - priorities.yaml
+
+todoist:
+  snapshot_path: data/todoist/tasks.json
+  diff_path: data/todoist/tasks.diff.json
+
+paths:
+  core: memory/core
+  history: memory/history
+  analytics: memory/analytics/observations.yaml
+  pending: memory/pending/core_changes.yaml
+  placeholders: memory/PLACEHOLDERS.yaml
+  todoist_links: memory/links/todoist.yaml

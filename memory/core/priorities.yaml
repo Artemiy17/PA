@@ -1,0 +1,11 @@
+version: 1
+items:
+  - id: priority_pa_mvp
+    scope: project
+    target_id: personal_ai_assistant
+    name: Довести персонального AI-ассистента до первого полезного MVP
+    status: active
+    importance: high
+    reason: >
+      Текущая реализация уже имеет источник задач и постоянный контекст,
+      но ещё не имеет полноценного цикла работы агента с LLM.

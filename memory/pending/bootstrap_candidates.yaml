@@ -1,0 +1,33 @@
+version: 1
+description: >
+  Неподтверждённые кандидаты из предыдущего контекста.
+  Они не являются основной памятью и не загружаются в обычный рабочий контекст.
+
+items:
+  - id: candidate_fixworks
+    type: fact_or_project
+    proposed_area_id: business
+    statement: Пользователь ведёт FIXWORKS LLC; заметное рабочее направление — ремонт беговых дорожек.
+    confidence: high
+    action: Подтвердить, нужно ли хранить это в основной памяти и в каком виде.
+
+  - id: candidate_english
+    type: goal_or_routine
+    proposed_area_id: learning
+    statement: Изучение английского является устойчивым направлением.
+    confidence: high
+    action: Уточнить текущую цель и наличие реальной рутины.
+
+  - id: candidate_guitar
+    type: goal_or_routine
+    proposed_area_id: learning
+    statement: Обучение игре на гитаре ранее рассматривалось как регулярное направление.
+    confidence: medium
+    action: Проверить, активно ли это сейчас.
+
+  - id: candidate_telegram_monitor
+    type: project
+    proposed_area_id: personal_projects
+    statement: Существует отдельный технический проект мониторинга Telegram.
+    confidence: high
+    action: Подтвердить текущий статус проекта.

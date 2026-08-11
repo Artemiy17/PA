@@ -1,0 +1,56 @@
+version: 1
+items:
+  - id: area_work_state
+    target: memory/core/areas.yaml#work_income.current_state
+    question: Как сейчас в целом выглядит ситуация с работой и заработком?
+    priority: high
+
+  - id: area_business_state
+    target: memory/core/areas.yaml#business.current_state
+    question: Как сейчас выглядит состояние бизнеса и его основных направлений?
+    priority: normal
+
+  - id: area_finances_state
+    target: memory/core/areas.yaml#finances.current_state
+    question: Какова текущая финансовая картина и ближайшие обязательства?
+    priority: high
+
+  - id: area_health_state
+    target: memory/core/areas.yaml#health.current_state
+    question: Какой минимальный контекст здоровья следует учитывать постоянно?
+    priority: normal
+
+  - id: active_learning
+    target: memory/core/areas.yaml#learning.current_state
+    question: Какие направления обучения сейчас действительно активны?
+    priority: normal
+
+  - id: area_social_state
+    target: memory/core/areas.yaml#social.current_state
+    question: Как сейчас выглядит сфера социализации и личной жизни?
+    priority: normal
+
+  - id: sensitive_legal_context
+    target: memory/core/areas.yaml#legal_immigration.current_state
+    question: Какой минимальный юридический или иммиграционный контекст допустимо хранить постоянно?
+    priority: high
+
+  - id: emotional_storage_level
+    target: memory/core/areas.yaml#emotional_energy.current_state
+    question: Какой уровень постоянного хранения эмоционального состояния и энергии допустим?
+    priority: normal
+
+  - id: current_obligations
+    target: memory/core/obligations.yaml
+    question: Какие обязательства и дедлайны сейчас реально активны?
+    priority: high
+
+  - id: current_routines
+    target: memory/core/routines.yaml
+    question: Какие регулярные действия реально действуют сейчас?
+    priority: normal
+
+  - id: todoist_links
+    target: memory/links/todoist.yaml
+    question: Какие Todoist-проекты или секции полезно связать с внутренними проектами?
+    priority: normal

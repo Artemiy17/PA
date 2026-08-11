@@ -1,0 +1,16 @@
+version: 1
+items:
+  - id: personal_ai_assistant
+    area_id: personal_projects
+    goal_ids:
+      - personal_assistant_mvp
+    name: Персональный AI-ассистент
+    status: active
+    importance: high
+    description: >
+      Разработка персонального менеджера и навигатора с независимой памятью,
+      Todoist, короткими сверками и сменной LLM.
+    current_stage: Слой памяти и сборки контекста.
+    next_milestone: Подключить сменную LLM и реализовать основной цикл агента.
+    last_movement_at: "2026-08-10"
+    notes: null
